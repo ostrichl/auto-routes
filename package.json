@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ostrichl/auto-routes.git"
+    "url": "git+https://github.com/ostrichl/auto-routes-node.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ostrichl/auto-routes/issues"
+    "url": "https://github.com/ostrichl/auto-routes-node/issues"
   },
-  "homepage": "https://github.com/ostrichl/auto-routes#readme"
+  "homepage": "https://github.com/ostrichl/auto-routes-node#readme"
 }
