@@ -1,0 +1,19 @@
+{
+  "name": "auto-routes-node",
+  "version": "1.0.0",
+  "description": "multi_worker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ostrichl/auto-routes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ostrichl/auto-routes/issues"
+  },
+  "homepage": "https://github.com/ostrichl/auto-routes#readme"
+}
